@@ -1,6 +1,6 @@
 # Neural Collaborative Filtering and Biased Matrix Factorization
 
-
+Neural Collaborative Filtering can be seen as a generalization of biased Matrix Factorization.
 
 ## Introduction
 
