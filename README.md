@@ -8,9 +8,9 @@ Collaborative Filtering (CF) is a well-performed model assumption for rating-bas
 In the recent decade, Matrix Factorization (MF) and its extensions (Bayesian Personalized Ranking (BPR), Factorization Machines (FM), etc.) are popular implementations of CF.
 
 In conference WWW 2017, Neural Collaborative Filtering (NCF) is proposed to model collaborative filtering by deep neural networks.
-It combines the generalized matrix factorization (GMF) part and the multi-layer perceptron (MLP) part to get higher performance than previous MF-based approaches.
+It combines the generalized matrix factorization (GMF) part and the multi-layer perceptron (MLP) part to outperform previous MF-based approaches.
 Here I show that NCF can be viewed as a generalization, or an extension, of biased MF.
-It helps me understand why NCF may achieve superior performance.
+It helps me understand NCF more deeply.
 
 ## References
 
