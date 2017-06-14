@@ -4,7 +4,7 @@ Neural Collaborative Filtering can be seen as a generalization of biased Matrix 
 
 ## Introduction
 
-Collaborative Filtering (CF) is a well-performed model assumption in rating-based recommender systems.
+Collaborative Filtering (CF) is a well-performed model assumption for rating-based recommender systems.
 In the recent decade, Matrix Factorization (MF) and its extensions (Bayesian Personalized Ranking (BPR), Factorization Machines (FM), etc.) are popular implementations of CF.
 
 In conference WWW 2017, Neural Collaborative Filtering (NCF) is proposed to model collaborative filtering by deep neural networks.
